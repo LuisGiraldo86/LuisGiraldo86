@@ -12,7 +12,9 @@ I am a professional mathematician with 10+ years of experience in scientific res
 - ✍️ Content Writer at [Medium](https://medium.com/@luisggon_85289), gearing up to share my experiences with the community.
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- [Collect all time Bundesliga goal scorers with Python](https://medium.com/@luisggon_85289/collect-all-time-bundesliga-goal-scorers-with-python-1ee9b2e70377)
+- [Ranking of 1.Bundesliga goal scorers](https://medium.com/@luisggon_85289/ranking-of-1-bundesliga-goal-scorers-7a7ddd1559a8)
+- [Addressing Missing Values: A Case Study with DFB Data](https://medium.com/@luisggon_85289/addressing-missing-values-a-case-study-with-dfb-data-88df8d4333a0)
 
 
 ## Tech Stack
