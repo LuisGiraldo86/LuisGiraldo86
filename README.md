@@ -18,24 +18,19 @@ I am a professional mathematician with 10+ years of experience in scientific res
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,sklearn,latex,github,docker)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+## 🌱 Expanding Horizons
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🚀 Applications of Deep Learning in early detection of Parkinson disease
+- 🚀 Learning PLINK1.9 and PLINK2.0 for genomic data manipulation
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Outstanding Thesis Award 2022-23. Phd in Mathematical Engineering.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/luisg-gonz-14b008172/)
 
