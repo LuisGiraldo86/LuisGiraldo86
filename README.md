@@ -7,10 +7,9 @@ I am a professional mathematician with 10+ years of experience in scientific res
 ## 🚀 About Me
 
 - 🔭 I'm currently doing a postdoc at the Center for Genetic Epidemiology at Universitätsklinikum Tübingen, :de:.
-- 🎓 I'M PhD in Mathematical Engineering by Carlos III University of Madrid
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🎓 I'm PhD in Mathematical Engineering by Carlos III University of Madrid, :sp:.
+- 📝 I have written and co-authored several research articles, [arXiv](https://arxiv.org/search/math?searchtype=author&query=Ricardo%2C+L+G+G).
+- ✍️ Content Writer at [Medium]([https://www.freecodecamp.org/](https://medium.com/@luisggon_85289)), gearing up to share my experiences with the community.
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
