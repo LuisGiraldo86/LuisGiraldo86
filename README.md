@@ -18,7 +18,7 @@ I am a professional mathematician with 10+ years of experience in scientific res
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
